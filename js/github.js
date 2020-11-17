@@ -29,7 +29,7 @@ const InitGithubInfo = {
     return fetch(this.ReleaseListURL).then((res) => res.json());
   },
 	processTitle(repo) {
-		console.log(repo, repo.description)
+		// console.log(repo, repo.description)
 		document.head.querySelector('title').innerText = `DOSVPN ${repo.description}`
   },
   processStar(repo) {
@@ -48,7 +48,7 @@ const InitGithubInfo = {
       return res
     }, 0);
     downloadSpan.dataset.number = (totalDownload / 1000).toFixed(1);
-		console.log('list => ', releaseList)
+		// console.log('list => ', releaseList)
   },
   processDownload(latestRelease) {
     // console.log('assets => ', latestRelease);
