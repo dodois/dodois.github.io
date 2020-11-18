@@ -1,0 +1,832 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script data-ad-client="ca-pub-3879216831996876" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-P4G0BSPRD5"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-P4G0BSPRD5");
+    </script>
+    
+    <script data-cfasync='false' 
+      type='text/javascript' 
+      src='//p418542.clksite.com/adServe/banners?tid=418542_820959_0&type=slider&side=left&size=9&position=center'></script>
+    <script type="text/javascript"> var infolinks_pid = 3297682; var infolinks_wsid = 0; </script> 
+    <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="极速、简单、开源的VPN访问外网学习先进科学技术的必备工具" />
+    <meta name="keywords" content="dosvpn,vpn,ssr,shadowrocket,shadowsocks,gfw,v2ray,v2fly,pac,trojan,proxy,ss,vmess,http,free,free-ss,free-ssr,fanqiang,lantern" />
+    <link
+      href="../../css2.css?family=Nunito:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>DOSVPN</title>
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="100">
+    <div class="lines-wrap">
+      <div class="lines-inner">
+        <div class="lines"></div>
+      </div>
+    </div>
+    
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close">
+          <span class="icofont-close js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    <nav class="site-nav dark js-site-navbar mb-5 site-navbar-target">
+      <div class="container">
+        <div class="site-navigation">
+          <a href="index.html" class="logo m-0 float-left">
+            <img
+              src="images/icon-64.ico"
+              style="height: 1.6em; vertical-align: top; margin-right: 0.3em"
+              alt="rocket-logo"
+            />
+            Dosvpn<span class="text-primary">.</span></a
+          >
+          <a
+            href="#"
+            class="burger ml-auto float-right site-menu-toggle js-menu-toggle d-inline-block dark d-lg-none"
+            data-toggle="collapse"
+            data-target="#main-navbar"
+          >
+            <span></span>
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div class="untree_co-hero" id="home-section">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12">
+            <div class="dots"></div>
+            <div class="row align-items-center">
+              <div
+                class="col-lg-7 ml-auto order-lg-2"
+                data-aos="fade-right"
+                data-aos-delay="400"
+              >
+                <img
+                  src="images/market-launch-pana.svg"
+                  alt="Image"
+                  class="market-launch-pana"
+                />
+              </div>
+              <div class="col-lg-5">
+                <h1 class="heading" data-aos="fade-up" data-aos-delay="0">
+                  访问外网、<br />学习技术的<br />必备工具
+                </h1>
+                <div class="excerpt" data-aos="fade-up" data-aos-delay="100">
+                  <p>
+                    dosvpn 是一款方便访问google、github、Stack Overflow、
+                    codepen、jsfiddle 等网站的工具，仅用于编程学习与研究。我
+                    们支持windows、macOS、linux，未来可能支持android、
+                    ios。灵活的代理模式（全局、智能、自定义），多协议支持（ss
+                    、ssr、vmess、http、dns 等）通过对互联网公开节点的筛选
+                    和测速，一键连接，方便快捷
+                  </p>
+                </div>
+                
+                <p data-aos="fade-up" data-aos-delay="200">
+                  <a
+                    href="#features-section"
+                    class="btn btn-primary smoothscroll"
+                    >查看特性</a
+                  >
+                  <a
+                    class="btn btn-outline-primary smoothscroll"
+                    id="download-btn"
+                    >下载</a
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="untree_co-section" id="features-section">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-4">
+            <span class="caption" data-aos="fade-up" data-aos-delay="0"
+              >CHARACTERISTIC</span
+            >
+            <h3 class="heading mb-4" data-aos="fade-up" data-aos-delay="100">
+              一键连接
+            </h3>
+            <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
+              <p>
+                一键点击连接即可访问外网，您也可以手动刷新节点
+                并测速，选择网络最稳定的节点使用。针对不同的节
+                点我们会为您推荐最合适的网站类型，您可以根据自
+                己的需求灵活选择节点。
+              </p>
+              <ul class="list-unstyled ul-check primary">
+                <li>针对常用国外网站优化节点</li>
+                <li>每天多次更新节点，保证连接速度</li>
+              </ul>
+            </div>
+            
+            <div class="mb-4" data-aos="fade-up" data-aos-delay="300">
+              <div class="untree_co-testimonial d-flex">
+                <div class="text">
+                  <blockquote>
+                    &ldquo;真的很好用，之前用过很多的vpn但是都不稳定，这个网络比较稳定，而且还是免费，不错！&rdquo;
+                  </blockquote>
+                  <div class="author d-flex">
+                    <div class="pic mr-3">
+                      <img
+                        src="images/xperson_1.jpg.pagespeed.ic.ZwOrrtC1mu.jpg"
+                        alt="avatar"
+                        class="img-fluid"
+                      />
+                    </div>
+                    <div>
+                      <strong class="d-block">James Anderson</strong
+                      ><span class="d-block">Facebook, Product Lead</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-7" data-aos="fade-up" data-aos-delay="400">
+            <span>
+              <img
+                src="images/一键连接动图.gif"
+                alt="Image"
+                class="img-fluid img-shadow"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="untree_co-section bg-light">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-5 order-lg-2 js-custom-dots">
+            <a
+              href="#"
+              class="service link horizontal d-flex active"
+              data-aos="fade-left"
+              data-aos-delay="0"
+            >
+              <div class="service-icon color-1 mb-4">
+                <svg
+                  class="bi bi-app-indicator"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"
+                  ></path>
+                  <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>一键连接</h3>
+                <p>即开即用，无需任何复杂的配置，保证您 的即时使用需求</p>
+              </div>
+              
+            </a>
+            
+            <a
+              href="#"
+              class="service link horizontal d-flex"
+              data-aos="fade-left"
+              data-aos-delay="100"
+            >
+              <div class="service-icon color-2 mb-4">
+                <svg
+                  class="bi bi-arrow-repeat"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M2.854 7.146a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L2.5 8.207l1.646 1.647a.5.5 0 0 0 .708-.708l-2-2zm13-1a.5.5 0 0 0-.708 0L13.5 7.793l-1.646-1.647a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0 0-.708z"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    d="M8 3a4.995 4.995 0 0 0-4.192 2.273.5.5 0 0 1-.837-.546A6 6 0 0 1 14 8a.5.5 0 0 1-1.001 0 5 5 0 0 0-5-5zM2.5 7.5A.5.5 0 0 1 3 8a5 5 0 0 0 9.192 2.727.5.5 0 1 1 .837.546A6 6 0 0 1 2 8a.5.5 0 0 1 .501-.5z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>定时更新</h3>
+                <p>我们每天都会更新新的节点，保证用户可 以随时科学上网</p>
+              </div>
+              
+            </a>
+            
+            <a
+              href="#"
+              class="service link horizontal d-flex"
+              data-aos="fade-left"
+              data-aos-delay="200"
+            >
+              <div class="service-icon color-3 mb-4">
+                <svg
+                  class="bi bi-briefcase"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-6h-1v6a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-6H0v6z"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    d="M0 4.5A1.5 1.5 0 0 1 1.5 3h13A1.5 1.5 0 0 1 16 4.5v2.384l-7.614 2.03a1.5 1.5 0 0 1-.772 0L0 6.884V4.5zM1.5 4a.5.5 0 0 0-.5.5v1.616l6.871 1.832a.5.5 0 0 0 .258 0L15 6.116V4.5a.5.5 0 0 0-.5-.5h-13zM5 2.5A1.5 1.5 0 0 1 6.5 1h3A1.5 1.5 0 0 1 11 2.5V3h-1v-.5a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5V3H5v-.5z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>方式灵活</h3>
+                <p>您可以自由选择智能分流或全局加速模式， 以方便您的使用</p>
+              </div>
+              
+            </a>
+            
+            <a
+              href="#"
+              class="service link horizontal d-flex"
+              data-aos="fade-left"
+              data-aos-delay="300"
+            >
+              <div class="service-icon color-4 mb-4">
+                <svg
+                  class="bi bi-collection"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M14.5 13.5h-13A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5zm-13 1A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>网站推荐</h3>
+                <p>
+                  针对不同的节点我们会为您推荐最合适的
+                  常用网站，让您获得最好的体验
+                </p>
+              </div>
+              
+            </a>
+            
+          </div>
+          <div class="col-lg-7">
+            <div class="img-shadow">
+              <div class="owl-single no-dots owl-carousel">
+                <div class="item">
+                  <span class="number">1/4</span>
+                  <img
+                    src="images/一键连接.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <div class="item">
+                  <span class="number">2/4</span>
+                  <img
+                    src="images/定时更新.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <div class="item">
+                  <span class="number">3/4</span>
+                  <img
+                    src="images/方式灵活.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
+                </div>
+                <div class="item">
+                  <span class="number">4/4</span>
+                  <img
+                    src="images/网站推荐.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    
+    <div class="untree_co-section">
+      <div class="container">
+        <div class="row">
+          <div
+            class="col-md-6 mb-4 mb-lg-0 col-lg-3"
+            data-aos="fade-up"
+            data-aos-delay="0"
+          >
+            <div class="service">
+              <div class="service-icon color-1 mb-4">
+                <svg
+                  class="bi bi-app-indicator"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1H5.5z"
+                  ></path>
+                  <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>定向优化</h3>
+                <p>
+                  针对国外常用视频、社交、音乐等网站
+                  进行定向优化，速度更快、连接更稳 定，保证您的使用体验
+                </p>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+          <div
+            class="col-md-6 mb-4 mb-lg-0 col-lg-3"
+            data-aos="fade-up"
+            data-aos-delay="100"
+          >
+            <div class="service">
+              <div class="service-icon color-2 mb-4">
+                <svg
+                  class="bi bi-arrow-repeat"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M2.854 7.146a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L2.5 8.207l1.646 1.647a.5.5 0 0 0 .708-.708l-2-2zm13-1a.5.5 0 0 0-.708 0L13.5 7.793l-1.646-1.647a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0 0-.708z"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    d="M8 3a4.995 4.995 0 0 0-4.192 2.273.5.5 0 0 1-.837-.546A6 6 0 0 1 14 8a.5.5 0 0 1-1.001 0 5 5 0 0 0-5-5zM2.5 7.5A.5.5 0 0 1 3 8a5 5 0 0 0 9.192 2.727.5.5 0 1 1 .837.546A6 6 0 0 1 2 8a.5.5 0 0 1 .501-.5z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>智能分流</h3>
+                <p>
+                  除了全局加速外我们还提供了智能分
+                  流模式，所有国内网站直线连接，无 需等待，增强用户体验
+                </p>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+          <div
+            class="col-md-6 mb-4 mb-lg-0 col-lg-3"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
+            <div class="service">
+              <div class="service-icon color-3 mb-4">
+                <svg
+                  class="bi bi-briefcase"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-6h-1v6a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-6H0v6z"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    d="M0 4.5A1.5 1.5 0 0 1 1.5 3h13A1.5 1.5 0 0 1 16 4.5v2.384l-7.614 2.03a1.5 1.5 0 0 1-.772 0L0 6.884V4.5zM1.5 4a.5.5 0 0 0-.5.5v1.616l6.871 1.832a.5.5 0 0 0 .258 0L15 6.116V4.5a.5.5 0 0 0-.5-.5h-13zM5 2.5A1.5 1.5 0 0 1 6.5 1h3A1.5 1.5 0 0 1 11 2.5V3h-1v-.5a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5V3H5v-.5z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>隐私保护</h3>
+                <p>
+                  访问国外网站全程匿名，我们将在传输
+                  过程中使用最强的加密方式，保护您的 数据和隐私
+                </p>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+          <div
+            class="col-md-6 mb-4 mb-lg-0 col-lg-3"
+            data-aos="fade-up"
+            data-aos-delay="300"
+          >
+            <div class="service">
+              <div class="service-icon color-4 mb-4">
+                <svg
+                  class="bi bi-collection"
+                  width="1em"
+                  height="1em"
+                  viewbox="0 0 16 16"
+                  fill="currentColor"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M14.5 13.5h-13A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5zm-13 1A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"
+                  ></path>
+                </svg>
+              </div>
+              
+              <div class="service-contents">
+                <h3>持续更新</h3>
+                <p>
+                  我们会持续更新优化软件的使用体验，
+                  同时加入更多实用有趣的功能，欢迎 您为我们提出宝贵的意见。
+                </p>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    <div class="untree_co-section" id="testimonials-section">
+      <div class="container">
+        <div class="row">
+          <div
+            class="col-lg-4 mb-5 text-center text-lg-left mb-lg-0"
+            data-aos="fade-up"
+            data-aos-delay="0"
+          >
+            <div class="mb-4">
+              <span class="caption">Testimonials</span>
+              <h2 class="heading">用户的肯定是我们 改进的动力</h2>
+            </div>
+            <div>
+              <a
+                href="#"
+                class="js-custom-prev-v2 cusotm-slider-nav custom-prev"
+                ><span
+                  ><svg
+                    class="bi bi-arrow-left"
+                    width="1em"
+                    height="1em"
+                    viewbox="0 0 16 16"
+                    fill="currentColor"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.854 4.646a.5.5 0 0 1 0 .708L3.207 8l2.647 2.646a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 0 1 .708 0z"
+                    ></path>
+                    <path
+                      fill-rule="evenodd"
+                      d="M2.5 8a.5.5 0 0 1 .5-.5h10.5a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"
+                    ></path></svg></span
+              ></a>
+              <a
+                href="#"
+                class="js-custom-next-v2 cusotm-slider-nav custom-next"
+                ><span>
+                  <svg
+                    class="bi bi-arrow-right"
+                    width="1em"
+                    height="1em"
+                    viewbox="0 0 16 16"
+                    fill="currentColor"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10.146 4.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L12.793 8l-2.647-2.646a.5.5 0 0 1 0-.708z"
+                    ></path>
+                    <path
+                      fill-rule="evenodd"
+                      d="M2 8a.5.5 0 0 1 .5-.5H13a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8z"
+                    ></path>
+                  </svg>
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-8" data-aos="fade" data-aos-delay="200">
+            <div class="owl-2-slider owl-carousel">
+              <div class="item">
+                <div class="untree_co-testimonial d-flex">
+                  <div class="text">
+                    <blockquote>
+                      &ldquo;真的很好用，之前用过很多的vpn但是都不稳定，这个网络比较稳定，而且还是免费，不错！&rdquo;
+                    </blockquote>
+                    <div class="author d-flex">
+                      <div class="pic mr-3">
+                        <img
+                          src="images/xperson_1.jpg.pagespeed.ic.ZwOrrtC1mu.jpg"
+                          alt="avatar"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div>
+                        <strong class="d-block">James Anderson</strong
+                        ><span class="d-block">Facebook, Product Lead</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+              <div class="item">
+                <div class="untree_co-testimonial d-flex">
+                  <div class="text">
+                    <blockquote>
+                      &ldquo;完全免费这一点没的说，太良心啦&rdquo;
+                    </blockquote>
+                    <div class="author d-flex">
+                      <div class="pic mr-3">
+                        <img
+                          src="images/xperson_2.jpg.pagespeed.ic.9zpiy3ffbX.jpg"
+                          alt="avatar"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div>
+                        <strong class="d-block">James Anderson</strong
+                        ><span class="d-block">Facebook, Product Lead</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+              <div class="item">
+                <div class="untree_co-testimonial d-flex">
+                  <div class="text">
+                    <blockquote>
+                      &ldquo;看油管基本不卡，google也方便，必须支持！&rdquo;
+                    </blockquote>
+                    <div class="author d-flex">
+                      <div class="pic mr-3">
+                        <img
+                          src="images/xperson_3.jpg.pagespeed.ic.OxLTnsXJun.jpg"
+                          alt="avatar"
+                          class="img-fluid"
+                        />
+                      </div>
+                      <div>
+                        <strong class="d-block">James Anderson</strong
+                        ><span class="d-block">Facebook, Product Lead</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="untree_co-section" id="about-section">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
+            <img src="images/about.svg" alt="about-image" class="img-fluid" />
+          </div>
+          <div class="col-lg-4">
+            <div class="mb-4" data-aos="fade-up" data-aos-delay="0">
+              <span class="caption">About</span>
+              <h2 class="heading">关于我们</h2>
+            </div>
+            <div class="mb-4" data-aos="fade-up" data-aos-delay="100">
+              <p>
+                我们是一群热爱和平，热爱技术的年轻猿。猿类像他的
+                祖先“悟空”一样，为了学习更多的专业知识，更先进
+                的科学技术，不停的摆渡去寻找菩提祖师！但DODOIS
+                是一群懒猿，疲于摆渡！
+              </p>
+            </div>
+            <ul
+              class="list-unstyled ul-check primary mb-4"
+              data-aos="fade-up"
+              data-aos-delay="200"
+            >
+              <li>近30天github热门top100</li>
+              <li>每日新增下载200+</li>
+              <li>日均访问量1000+</li>
+            </ul>
+            <div class="row count-numbers">
+              <div class="col-lg-6" data-aos="fade-up" data-aos-delay="0">
+                <span class="counter d-block"
+                  ><span data-number="59" id="download-num">0</span
+                  ><span>K+</span></span
+                >
+                <span class="caption-2">总下载</span>
+              </div>
+              <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                <span class="counter d-block"
+                  ><span data-number="14" id="star-num">0</span><span></span
+                ></span>
+                <span class="caption-2">STAR</span>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    <div class="site-footer">
+      <div class="footer-dots"></div>
+      
+      <div class="container">
+        <!-- <div class="row">
+          <div class="col-lg-4">
+            <div class="widget">
+              <h3>关于dosvpn <span class="text-primary">.</span></h3>
+              <p>
+                dosvpn 是一款方便访问google、github、Stack
+                Overflow、codepen、jsfiddle 等网站的工具，仅
+                用于编程学习与研究。
+              </p>
+            </div>
+            <div class="widget">
+              <h3>联系我们</h3>
+              <ul class="list-unstyled social">
+                <li>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-facebook"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-linkedin"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-pinterest"></span></a>
+                </li>
+                <li>
+                  <a href="#"><span class="icon-dribbble"></span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2 ml-auto">
+            <div class="widget">
+              <h3>用户中心</h3>
+              <ul class="list-unstyled float-left links">
+                <li><a href="#">主页 </a></li>
+                <li><a href="#">应用下载</a></li>
+                <li><a href="#">常见问题</a></li>
+                <li><a href="#">加入dos群</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2">
+            <div class="widget">
+              <h3>Services</h3>
+              <ul class="list-unstyled float-left links">
+                <li><a href="#">Architect</a></li>
+                <li><a href="#">Interior Design</a></li>
+                <li><a href="#">Landscape Design</a></li>
+                <li><a href="#">Consultancy</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="widget">
+              <h3>Contact</h3>
+              <address>43 Raymouth Rd. Baltemoer, London 3910</address>
+              <ul class="list-unstyled links mb-4">
+                <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
+                <li><a href="tel://11234567890">+1(123)-456-7890</a></li>
+                <li>
+                  <a href="mailto:info@mydomain.com">info@mydomain.com</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div> -->
+        <div class="row mt-5">
+          <div class="col-12 text-center">
+            <p>
+              
+              Copyright &copy;
+              <script>
+                document.write(new Date().getFullYear());
+              </script>
+              All rights reserved
+              <i class="icon-heart text-danger" aria-hidden="true"></i> by dosvpn
+              
+            </p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <div id="overlayer"></div>
+    <div class="loader">
+      <div class="spinner-border" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
+    <script src="js/github.js"></script>
+    <script src="js/jquery-3.4.1.min.js.pagespeed.jm.tJmcu2pzqb.js"></script>
+    <script src="js/jquery-migrate-3.0.1.min.js popper.min.js.pagespeed.jc.EAEQc27_lt.js"></script>
+    <script>
+      eval(mod_pagespeed_khyElXjGAT);
+    </script>
+    <script>
+      eval(mod_pagespeed_ULDfefuH31);
+    </script>
+    <script src="js/bootstrap.min.js.pagespeed.jm.GYfyYLydZ3.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+      eval(mod_pagespeed_RP6kkVK9HC);
+    </script>
+    <script>
+      eval(mod_pagespeed_2Y7QeCCSre);
+    </script>
+    <script>
+      eval(mod_pagespeed_w1c1dQh2ne);
+    </script>
+    <script>
+      eval(mod_pagespeed_eljcc7pVWG);
+    </script>
+    <script src="js/jquery.fancybox.min.js aos.js custom.js.pagespeed.jc.WN7Kyyel2k.js"></script>
+    <script>
+      eval(mod_pagespeed_yLWEipzJ20);
+    </script>
+    <script>
+      eval(mod_pagespeed_TYVoqD4urx);
+    </script>
+    <script>
+      eval(mod_pagespeed_7T0Ez_jKC7);
+    </script>
+  </body>
+</html>

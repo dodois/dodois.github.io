@@ -1,0 +1,18 @@
+.dosvpn-article-container {
+  margin: 0 auto;
+  width: 45%;
+}
+.dosvpn-back-home-btn {
+  height: 2em;
+  margin: 1em;
+  margin-left: 0;
+  transition: opacity 0.1s;
+  display: block;
+}
+.dosvpn-back-home-btn:active {
+  opacity: 0.5;
+}
+.dosvpn-back-home-icon {
+  height: 100%;
+  width: 2em;
+}
