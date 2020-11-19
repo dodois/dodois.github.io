@@ -30,7 +30,7 @@ const InitGithubInfo = {
   },
 	processTitle(repo) {
 		// console.log(repo, repo.description)
-		document.head.querySelector('title').innerText = `DOSVPN ${repo.description}`
+		document.head.querySelector('title').innerText = `DOSVPN ${repo.description || ''}`
   },
   processStar(repo) {
     // stargazers_count
