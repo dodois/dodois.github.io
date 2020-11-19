@@ -1037,6 +1037,12 @@
         <span class="sr-only">Loading...</span>
       </div>
     </div>
+
+    <!-- Insert this line above script imports  -->
+    <script>
+    if (typeof module === 'object') {window.module = module; module = undefined;}
+    </script>
+    <!-- normal script imports etc  -->
     <script src="js/github.js"></script>
     <script src="js/jquery-3.4.1.min.js.pagespeed.jm.tJmcu2pzqb.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js popper.min.js.pagespeed.jc.EAEQc27_lt.js"></script>
@@ -1069,6 +1075,10 @@
     </script>
     <script>
       eval(mod_pagespeed_7T0Ez_jKC7);
+    </script>
+    <!-- Insert this line after script imports -->
+    <script>
+      if (window.module) module = window.module;
     </script>
   </body>
 </html>
