@@ -23,13 +23,13 @@ const InitGithubInfo = {
       .catch((err) => console.error(err));
   },
   getRepo() {
-    return fetch(this.BaseURL).then((res) => res.json());
+    return fetch(this.BaseURL).then((res) => res.ok ? res.json() : Promise.reject(res.statusText));
   },
   getLatestRelease() {
-    return fetch(this.LatestReleaseURL).then((res) => res.json());
+    return fetch(this.LatestReleaseURL).then((res) => res.ok ? res.json() : Promise.reject(res.statusText));
   },
   getReleaseList() {
-    return fetch(this.ReleaseListURL).then((res) => res.json());
+    return fetch(this.ReleaseListURL).then((res) => res.ok ? res.json() : Promise.reject(res.statusText));
   },
   processTitle(repo) {
     // console.log(repo, repo.description)
