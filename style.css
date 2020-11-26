@@ -18066,3 +18066,67 @@ h4,
   background: #739eff;
   color: #fff;
 }
+
+
+.paypal-input-box {
+  position: relative;
+  margin-bottom: 19px;
+}
+
+.paypal-input-box .form-control {
+  display: block;
+  width: 100%;
+  height: 37px;
+  padding: 0;
+  font-size: 16px;
+  color: #0c0c0c;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid rgba(12, 12, 12, 0.12);
+  background: transparent;
+  transition: border-color ease-in-out .15s;
+}
+
+.paypal-input-box .form-control:focus {
+  outline: 0;
+}
+
+.paypal-input-box .form-control ~ label {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 19px;
+  display: inline-block;
+  width: 100%;
+  opacity: 0.5;
+  font-size: 16px;
+  font-weight: 400;
+  pointer-events: none;
+  transition: 0.2s ease all;
+}
+
+.paypal-input-box .form-control:focus ~ label {
+  top: 0px;
+  font-size: 12px !important;
+  color: #0aa89e;
+  opacity: 1;
+}
+
+.paypal-input-box .form-control ~ label:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 45%;
+  height: 2px;
+  width: 10px;
+  visibility: hidden;
+  background-color: #0aa89e;
+  transition: 0.2s ease all;
+}
+
+.paypal-input-box .form-control:focus ~ label:after {
+  visibility: visible;
+  width: 100%;
+  left: 0;
+}

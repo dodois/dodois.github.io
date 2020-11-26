@@ -14,7 +14,7 @@ const InitGithubInfo = {
       this.getReleaseList(),
     ])
       .then(([repo, latestRelease, releaseList]) => {
-        this.processTitle(repo);
+        // this.processTitle(repo);
         this.processStar(repo);
         this.processDownload(latestRelease);
         this.processDownloadNumber(releaseList);

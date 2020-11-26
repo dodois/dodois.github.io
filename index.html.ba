@@ -170,13 +170,11 @@
             </div>
           </div>
           <div class="col-lg-7" data-aos="fade-up" data-aos-delay="400">
-            <span>
-              <img
-                src="images/一键连接动图.gif"
-                alt="Image"
-                class="img-fluid img-shadow"
-              />
-            </a>
+            <img
+              src="images/一键连接动图.gif"
+              alt="Image"
+              class="img-fluid img-shadow"
+            />
           </div>
         </div>
       </div>
