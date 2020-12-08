@@ -1,10 +1,11 @@
-html {
+/* html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizelegibility;
   font-feature-settings: 'liga', 'kern';
-  font-family: 'Montserrat', 'HelveticaNeueLTStd', 'Helvetica Neue', Helvetica,
-    Arial, 'Lucida Grande', sans-serif;
+  font-family: 'Montserrat', 'HelveticaNeueLTStd',
+    'Helvetica Neue', Helvetica, Arial,
+    'Lucida Grande', sans-serif;
   line-height: 1.5;
 }
 
@@ -21,10 +22,13 @@ html {
   will-change: filter, opacity, transform;
   -webkit-filter: blur(3px);
   filter: blur(3px);
-  -webkit-transition: opacity 1s, blur 0.3s, -webkit-transform 1s;
-  transition: opacity 1s, blur 0.3s, -webkit-transform 1s;
+  -webkit-transition: opacity 1s, blur 0.3s,
+    -webkit-transform 1s;
+  transition: opacity 1s, blur 0.3s,
+    -webkit-transform 1s;
   transition: transform 1s, opacity 1s, blur 0.3s;
-  transition: transform 1s, opacity 1s, blur 0.3s, -webkit-transform 1s;
+  transition: transform 1s, opacity 1s, blur 0.3s,
+    -webkit-transform 1s;
   opacity: 0;
   -webkit-transform: scale(0.95);
   transform: scale(0.95);
@@ -56,19 +60,22 @@ html {
 h1,
 h2,
 fieldset legend,
-.dosvpn-article-list .dosvpn-article-list__item__anchor,
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor,
 h3,
 h4,
 h5,
 h6 {
   margin: 1rem 0;
-  font-family: 'Montserrat', 'HelveticaNeueLTStd', 'Helvetica Neue', Helvetica,
-    Arial, 'Lucida Grande', sans-serif;
+  font-family: 'Montserrat', 'HelveticaNeueLTStd',
+    'Helvetica Neue', Helvetica, Arial,
+    'Lucida Grande', sans-serif;
 }
 h1:not([class]),
 h2:not([class]),
 fieldset legend:not([class]),
-.dosvpn-article-list .dosvpn-article-list__item__anchor:not([class]),
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor:not([class]),
 h3:not([class]),
 h4:not([class]),
 h5:not([class]),
@@ -86,7 +93,8 @@ h1 {
 @media screen and (min-width: 37.5rem) {
   h1 {
     font-size: calc(
-      1.2961572031rem + 1.8611773152 * ((100vw - 37.5rem) / 42.5)
+      1.2961572031rem + 1.8611773152 *
+        ((100vw - 37.5rem) / 42.5)
     );
   }
 }
@@ -98,26 +106,33 @@ h1 {
 
 h2,
 fieldset legend,
-.dosvpn-article-list .dosvpn-article-list__item__anchor {
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor {
   font-weight: 600;
   line-height: 1.375;
 }
 h2,
 fieldset legend,
-.dosvpn-article-list .dosvpn-article-list__item__anchor {
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor {
   font-size: 1.214767763rem;
 }
 @media screen and (min-width: 37.5rem) {
   h2,
   fieldset legend,
-  .dosvpn-article-list .dosvpn-article-list__item__anchor {
-    font-size: calc(1.214767763rem + 1.153825274 * ((100vw - 37.5rem) / 42.5));
+  .dosvpn-article-list
+    .dosvpn-article-list__item__anchor {
+    font-size: calc(
+      1.214767763rem + 1.153825274 *
+        ((100vw - 37.5rem) / 42.5)
+    );
   }
 }
 @media screen and (min-width: 80rem) {
   h2,
   fieldset legend,
-  .dosvpn-article-list .dosvpn-article-list__item__anchor {
+  .dosvpn-article-list
+    .dosvpn-article-list__item__anchor {
     font-size: 2.368593037rem;
   }
 }
@@ -130,7 +145,10 @@ h3 {
 }
 @media screen and (min-width: 37.5rem) {
   h3 {
-    font-size: calc(1.138489rem + 0.6384 * ((100vw - 37.5rem) / 42.5));
+    font-size: calc(
+      1.138489rem + 0.6384 *
+        ((100vw - 37.5rem) / 42.5)
+    );
   }
 }
 @media screen and (min-width: 80rem) {
@@ -147,7 +165,10 @@ h4 {
 }
 @media screen and (min-width: 37.5rem) {
   h4 {
-    font-size: calc(1.067rem + 0.266 * ((100vw - 37.5rem) / 42.5));
+    font-size: calc(
+      1.067rem + 0.266 *
+        ((100vw - 37.5rem) / 42.5)
+    );
   }
 }
 @media screen and (min-width: 80rem) {
@@ -164,7 +185,9 @@ h5 {
 }
 @media screen and (min-width: 37.5rem) {
   h5 {
-    font-size: calc(1rem + 0 * ((100vw - 37.5rem) / 42.5));
+    font-size: calc(
+      1rem + 0 * ((100vw - 37.5rem) / 42.5)
+    );
   }
 }
 @media screen and (min-width: 80rem) {
@@ -182,7 +205,8 @@ h6 {
 @media screen and (min-width: 37.5rem) {
   h6 {
     font-size: calc(
-      0.9372071228rem + -0.1870195759 * ((100vw - 37.5rem) / 42.5)
+      0.9372071228rem + -0.1870195759 *
+        ((100vw - 37.5rem) / 42.5)
     );
   }
 }
@@ -211,7 +235,6 @@ small {
 }
 
 p,
-ul,
 dl,
 ol,
 blockquote {
@@ -226,7 +249,7 @@ blockquote:not([class]) {
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: none;
 }
 
 hr {
@@ -283,7 +306,7 @@ body {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   flex-direction: column;
-}
+} */
 
 .dosvpn-article-list .article-date {
   color: #4a4a4a;
@@ -338,7 +361,8 @@ body {
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
 }
 
-.dosvpn-article-list .dosvpn-article-list__item__anchor {
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor {
   background-image: -webkit-gradient(
       linear,
       left top,
@@ -347,15 +371,21 @@ body {
       to(black)
     ),
     -webkit-gradient(linear, left top, left bottom, from(black), to(black));
-  background-image: linear-gradient(black 0%, black 100%),
+  background-image: linear-gradient(
+      black 0%,
+      black 100%
+    ),
     linear-gradient(black 0%, black 100%);
   background-repeat: no-repeat;
   background-size: 0% 2px, 0% 2px;
   background-position: 0 98%, 100% 98%;
-  -webkit-transition: background-size 0.4s cubic-bezier(0.435, 0, 0, 1);
-  transition: background-size 0.4s cubic-bezier(0.435, 0, 0, 1);
+  -webkit-transition: background-size 0.4s
+    cubic-bezier(0.435, 0, 0, 1);
+  transition: background-size 0.4s
+    cubic-bezier(0.435, 0, 0, 1);
 }
-.dosvpn-article-list .dosvpn-article-list__item__anchor:hover {
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor:hover {
   background-size: 51% 2px, 50% 2px;
 }
 
@@ -367,7 +397,8 @@ body {
   padding: calc(0.75rem + 1.25vw);
   background: #fafafa;
 }
-.dosvpn-article-list .dosvpn-article-list__item:before {
+.dosvpn-article-list
+  .dosvpn-article-list__item:before {
   content: '';
   position: absolute;
   top: 0;
@@ -382,8 +413,10 @@ body {
   transition: all 0.15s ease;
 }
 @media (min-width: 770px) {
-  .dosvpn-article-list .dosvpn-article-list__item:before {
-    margin: calc((0.75rem + 1.25vw) * -1) calc((0.75rem + 1.25vw) * -1) 0;
+  .dosvpn-article-list
+    .dosvpn-article-list__item:before {
+    margin: calc((0.75rem + 1.25vw) * -1)
+      calc((0.75rem + 1.25vw) * -1) 0;
   }
 }
 
@@ -394,12 +427,15 @@ body {
   transition: all 0.15s ease;
   will-change: opacity;
 }
-.dosvpn-article-list .dosvpn-article-list__item:hover {
+.dosvpn-article-list
+  .dosvpn-article-list__item:hover {
   overflow: visible;
   z-index: 10;
   background: white !important;
 }
-.dosvpn-article-list .dosvpn-article-list__item:hover > * {
+.dosvpn-article-list
+  .dosvpn-article-list__item:hover
+  > * {
   opacity: 1;
 }
 .dosvpn-article-list
@@ -408,14 +444,18 @@ body {
   color: black;
   text-shadow: none;
 }
-.dosvpn-article-list .dosvpn-article-list__item:hover:before {
+.dosvpn-article-list
+  .dosvpn-article-list__item:hover:before {
   background: #fafafa;
 }
-.dosvpn-article-list .dosvpn-article-list__item + * {
+.dosvpn-article-list
+  .dosvpn-article-list__item
+  + * {
   margin-top: calc(0.75rem + 1.25vw);
 }
 @media (min-width: 480px) and (max-width: 769px) {
-  .dosvpn-article-list .dosvpn-article-list__item {
+  .dosvpn-article-list
+    .dosvpn-article-list__item {
     display: -webkit-box;
     display: flex;
     -webkit-box-orient: horizontal;
@@ -426,7 +466,8 @@ body {
   }
 }
 @media (min-width: 1020px) {
-  .dosvpn-article-list .dosvpn-article-list__item {
+  .dosvpn-article-list
+    .dosvpn-article-list__item {
     display: -webkit-box;
     display: flex;
     -webkit-box-orient: horizontal;
@@ -444,8 +485,12 @@ body {
   .dosvpn-article-list__item {
   background-color: white;
 }
-.background--dark .dosvpn-article-list .dosvpn-article-list__item:hover:before,
-.dosvpn-article-list .background--dark .dosvpn-article-list__item:hover:before {
+.background--dark
+  .dosvpn-article-list
+  .dosvpn-article-list__item:hover:before,
+.dosvpn-article-list
+  .background--dark
+  .dosvpn-article-list__item:hover:before {
   background: none;
   margin: 0;
 }
@@ -453,7 +498,8 @@ body {
 .dosvpn-article-list .article-date {
   display: block;
 }
-@media (min-width: 480px) and (max-width: 770px), (min-width: 1020px) {
+@media (min-width: 480px) and (max-width: 770px),
+  (min-width: 1020px) {
   .dosvpn-article-list .article-date {
     position: absolute;
     top: calc(0.75rem + 1.25vw);
@@ -461,7 +507,8 @@ body {
   }
 }
 
-.dosvpn-article-list .dosvpn-article-list__item__anchor {
+.dosvpn-article-list
+  .dosvpn-article-list__item__anchor {
   margin-bottom: 0;
   line-height: 1.25;
   -webkit-transition: all 0.15s ease;
@@ -471,7 +518,8 @@ body {
   width: 100%;
 }
 @media (min-width: 480px) {
-  .dosvpn-article-list .dosvpn-article-list__item__anchor {
+  .dosvpn-article-list
+    .dosvpn-article-list__item__anchor {
     margin-top: calc(1.25rem + 0.25em);
   }
 }
@@ -481,6 +529,7 @@ body {
   width: 45%;
   box-sizing: border-box;
   padding-bottom: 2em;
+  padding-top: 6rem;
 }
 .dosvpn-back-home-btn {
   height: 2em;
