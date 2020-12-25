@@ -1,3 +1,5 @@
+const IndexReg = /\/(\/(#.+))?$/;
+
 const InitGithubInfo = {
   BaseURL:
     'https://api.github.com/repos/dodois/dosvpn',
@@ -9,8 +11,10 @@ const InitGithubInfo = {
   },
 
   init() {
-    if (!location.href.includes('index.html'))
-      return; // 首页生效
+    // 首页生效
+    if (!IndexReg.test(location.pathname)) {
+      return;
+    }
     Promise.all([
       this.getRepo(),
       this.getLatestRelease(),
